@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hiesekel.github.io/sitemap.html.gz
+Sitemap: https://hiesekel.github.io/app/sitemap.html.gz
+Sitemap: https://hiesekel.github.io/assets/sitemap.html.gz
+Sitemap: https://hiesekel.github.io/css/sitemap.html.gz
+Sitemap: https://hiesekel.github.io/includes/sitemap.html.gz
+Sitemap: https://hiesekel.github.io/item/sitemap.html.gz
+Sitemap: https://hiesekel.github.io/src/sitemap.html.gz
